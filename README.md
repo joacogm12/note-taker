@@ -33,7 +33,7 @@ this application helps users remember tasks that need to be done. it doesnt matt
 
 # Deploy aplication link
 
-
+link: https://note-taker-jgm.herokuapp.com/
 
 # Questions
 
